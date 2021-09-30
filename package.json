@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Cris Ilabaca",
+	"description": "Project for the free code camp backend course",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
