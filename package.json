@@ -3,6 +3,7 @@
 	"author": "Cris Ilabaca",
 	"description": "Project for the free code camp backend course",
 	"keywords": ["freecodecamp", "backend", "api"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
